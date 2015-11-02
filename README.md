@@ -56,7 +56,7 @@ This is all you need to get going with the scrolling and section snapping
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/scrollify.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rahullakhaney/scrollify.
 
 
 ## License
