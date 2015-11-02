@@ -1,5 +1,7 @@
 # Scrollify
 
+[![Gem Version](https://badge.fury.io/rb/scrollify.svg)](https://badge.fury.io/rb/scrollify)
+
 A ruby gem for scrollify plugin [developed by Luke Haas](http://lukehaas.me/).
 A jQuery plugin that assists scrolling and snaps to sections. Touch optimised.
 
