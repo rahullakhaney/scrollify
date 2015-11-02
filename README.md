@@ -5,6 +5,8 @@ A jQuery plugin that assists scrolling and snaps to sections. Touch optimised.
 
 ## Installation
 
+Find it on [rubygems.org](https://rubygems.org/gems/scrollify)
+
 Add this line to your application's Gemfile:
 
 ```ruby
